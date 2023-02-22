@@ -5,7 +5,6 @@
 - 🌱 I’m currently working on projects using DevOps Tools and Methodologies [ansible,Terraform,jenkins,git,AWS]
 - 👯 I’m looking to collaborate on Devops and Cloud Computing
 - 📫 How to reach me: https://twitter.com/Narbydxelos
-- 😄 Pronouns: 
 - ⚡ Fun fact: i love listening to music...alot :smile:
 
 <!--
