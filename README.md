@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on __DevOps__ :computer: :cloud: 
+- 🔭 I’m a __DevOps Engineer__ :computer: :cloud: 
 - 🌱 I’m currently working on projects using DevOps Tools and Methodologies [ansible,Terraform,jenkins,git,AWS]
 - 👯 I’m looking to collaborate on Devops and Cloud Computing
 - 📫 How to reach me: https://twitter.com/Narbydxelos
