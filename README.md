@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m a __DevOps Engineer__ :computer: :cloud: 
-- 🌱 I’m currently working on projects using DevOps Tools and Methodologies [ansible,Terraform,jenkins,git,AWS]
-- 👯 I’m looking to collaborate on Devops and Cloud Computing
+- 🌱 I’m currently working on projects using DevOps Tools and Methodologies __[ansible,Terraform,jenkins,git,AWS]__
+- 👯 I’m looking to collaborate on __Devops__ and __Cloud Computing__.
 - 📫 How to reach me: https://twitter.com/Narbydxelos
 - ⚡ Fun fact: i love listening to music...alot :smile:
 
