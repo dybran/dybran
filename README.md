@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a __DevOps/Cloud Engineer__ :computer: :cloud: 
-- 🌱 I’m currently working on projects using DevOps/Cloud based Tools and Methodologies [__ansible, Docker, Jenkins, Git, AWS__]
+- 🌱 I’m currently working on projects using DevOps/Cloud based Tools and Methodologies [__Ansible, Docker, Jenkins, Git, AWS__]
 - 👯 I’m looking to collaborate on __Devops__ and __Cloud based__ Projects.
 - 📫 How to reach me: https://twitter.com/Narbydxelos, https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/
 - 😄 Pronouns: He/Him
