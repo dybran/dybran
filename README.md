@@ -7,6 +7,7 @@
 - 📫 How to reach me: https://twitter.com/Narbydxelos, https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love listening to music...alot :smile:
+- ![image](C:\Users\NUCLEAR PROPERTIES\Pictures\Screenshots\dev.jpg)
 
 <!--
 **dybran/dybran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
