@@ -11,7 +11,7 @@
 ![](https://github.com/dybran/VPC-Design-Project/blob/main/images/devops.PNG)
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
 
 <!--
 **dybran/dybran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
