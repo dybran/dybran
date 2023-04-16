@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love listening to music...alot :smile:
 
-![](https://github.com/dybran/VPC-Design-Project/blob/main/images/ig3.PNG](https://github.com/dybran/VPC-Design-Project/blob/main/images/devopsa.PNG)
+![](https://github.com/dybran/VPC-Design-Project/blob/main/images/devopsa.PNG)
 
 <!--
 **dybran/dybran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
