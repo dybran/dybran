@@ -4,9 +4,7 @@
 - 🔭 I’m a __DevOps/Cloud Engineer__ :computer: :cloud: 
 - 🌱 I’m currently working on projects using DevOps/Cloud based Tools and Methodologies [__Ansible, Docker, Jenkins, Git, AWS__]
 - 👯 I’m looking to collaborate on __Devops__ and __Cloud based__ Projects.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love listening to music...alot :smile:
-- ⚡ Fun fact: i love arts too....
+- ⚡ Fun fact: i love listening to music...and arts :smile:
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
