@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a __DevOps/Cloud Engineer__ :computer: :cloud: 
-- 🌱 I’m currently working on projects using DevOps/Cloud based Tools and Methodologies [__Ansible, Docker, Jenkins, Git, AWS__]
+- 🌱 I’m currently working on projects using DevOps/Cloud based Tools and Methodologies [__Ansible, Docker, Jenkins, Git, AWS and terraform__]
 - 👯 I’m looking to collaborate on __Devops__ and __Cloud based__ Projects.
 - ⚡ Fun fact: i love listening to music...and arts :smile:
 
