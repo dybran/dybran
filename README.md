@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
 
-![](https://github.com/dybran/Project-17/blob/main/images/Capture.PNG)
+![](https://github.com/dybran/Project-17/blob/main/images/Cap.PNG)
 
 
 
