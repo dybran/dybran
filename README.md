@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m a __DevOps/Cloud Engineer__ :computer: :cloud: 
-- 🌱 I’m currently working on projects using DevOps/Cloud Tools - __Linux, Ansible, Docker, Kubernetes, Jenkins, Git, AWS, and Terraform/Pulumi__.
-- 👯 I’m looking to collaborate on __Devops__ and __Cloud based__ Projects.
+- 🌱 I’m currently working on projects using DevOps/Cloud Tools - __Linux__, __Ansible__, __Docker__, __Kubernetes__, __Jenkins__, __Git__, __AWS__, and __Terraform/Pulumi__.
+- 👯 I’m looking to collaborate on __Devops__ and __Cloud__ Projects.
 - ⚡ Fun fact: i love listening to music...i love art too :smile:
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
