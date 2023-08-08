@@ -1,10 +1,19 @@
-### Hi !!! 👋
+### Welcome !!! 👋
 
 
-- 🔭 I’m a __DevOps/Cloud Engineer__ :computer: :cloud: 
-- 🌱 I’m currently working on projects using DevOps/Cloud Tools - __Linux__, __Ansible__, __Docker__, __Kubernetes__, __Jenkins__, __Git__, __AWS__, and __Terraform/Pulumi__.
+- 🔭 I am a __DevOps/Cloud Engineer__ :computer: :cloud: dedicated to optimizing software development and deployment processes, eager to contribute and learn in a collaborative and dynamic technology environment.
+- 🌱 I am presently engaged in projects that involve utilizing the DevOps/Cloud Tools mentioned below: -
+  - __Linux__
+  - __Ansible__
+  - __Docker__
+  - __Kubernetes__
+  - __Jenkins__
+  - __Git__
+  - __AWS__
+  - __Terraform/Pulumi__.
+
 - 👯 I’m looking to collaborate on __Devops__ and __Cloud__ Projects.
-- ⚡ Fun fact: i love listening to music...i love art too :smile:
+- ⚡ Fun fact: i love listening to music...i love art too :smile::laugh:
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
