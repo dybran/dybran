@@ -13,7 +13,7 @@
   - __IAC Tools__: Terraform/Pulumi.
   - __Others__: Packer
 
-- 👯 I’m looking to collaborate on __Devops__ and __Cloud__ Projects.
+- 👯 Looking to collaborate on __Devops__ and __Cloud__ Projects.
 - ⚡ Fun fact: i love listening to music...i love art too :smile::laugh:
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
