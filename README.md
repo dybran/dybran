@@ -1,7 +1,7 @@
 ### Welcome !!! 👋
 
 
-- 🔭 I am a __DevOps/Cloud Engineer__ :computer: :cloud: dedicated to optimizing software development and deployment processes, eager to contribute and learn in a collaborative and dynamic technology environment.
+- 🔭 I am a __DevOps and Cloud Engineer__ :computer: :cloud: committed to enhancing software development and deployment workflows. My enthusiasm lies in actively participating and gaining knowledge within a dynamic and cooperative technological landscape.
 - 🌱 I am presently engaged in projects that involve utilizing the DevOps/Cloud Tools mentioned below: -
   - __OS__: Linux
   - __Configuration Management Tool__: Ansible
