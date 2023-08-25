@@ -1,20 +1,22 @@
 ### Welcome !!! 👋
 
 
-- 🔭 I am a __DevOps and Cloud Engineer__ :computer: :cloud: committed to enhancing software development and deployment workflows. My enthusiasm lies in actively participating and gaining knowledge within a dynamic and cooperative technological landscape.
-- 🌱 I am presently engaged in projects that involve utilizing the DevOps/Cloud Tools mentioned below: -
+- 🔭 My main emphasis is on improving software development and deployment processes, driven by my unwavering commitment to the DevOps and Cloud engineering realm 💻 ☁️. I am fueled by enthusiasm, leading me to engage actively and continuously learn in the ever-evolving and collaborative technological landscape
+
+- 🌱 I am currently working on  projects that leverage the capabilities of the following DevOps and Cloud Tools: -
   - __OS__: Linux
   - __Configuration Management__: Ansible
   - __Containerization__: Docker
   - __Container Orchestration__: Kubernetes
   - __CI/CD__: Jenkins
-  - __Version Control tool__: Github
+  - __Version Control__: Github
   - __Cloud Platform__: AWS
   - __IAC Tools__: Terraform and Packer, Pulumi.
   
-- 👯 Looking to collaborate on __Devops__ and __Cloud__ Projects.
-- ⚡ Fun fact: i love listening to music.
-- ⚡ I love art too :smile:
+- 👯 I am eagerly open to collaborative opportunities within the sphere of __DevOps__ and __Cloud__ Projects.
+- ⚡ __Fun fact:__ The act of fully engaging with music brings about a profound sense of joy within me; furthermore, I possess a profound admiration for various forms of art. 😄
+
+  
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
