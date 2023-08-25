@@ -3,16 +3,15 @@
 
 - 🔭 I am a __DevOps and Cloud Engineer__ :computer: :cloud: committed to enhancing software development and deployment workflows. My enthusiasm lies in actively participating and gaining knowledge within a dynamic and cooperative technological landscape.
 - 🌱 I am presently engaged in projects that involve utilizing the DevOps/Cloud Tools mentioned below: -
-  - __OS__: Linux ![](https://tenor.com/view/tux-linux-linux-linux-power-power-linux-powerd-bu-linux-gif-17955384)
-  - __Configuration Management Tool__: Ansible
+  - __OS__: Linux
+  - __Configuration Management__: Ansible
   - __Containerization__: Docker
   - __Container Orchestration__: Kubernetes
   - __CI/CD__: Jenkins
   - __Version Control tool__: Github
   - __Cloud Platform__: AWS
-  - __IAC Tools__: Terraform/Pulumi.
-  - __Others__: Packer
-
+  - __IAC Tools__: Terraform and Packer, Pulumi.
+  
 - 👯 Looking to collaborate on __Devops__ and __Cloud__ Projects.
 - ⚡ Fun fact: i love listening to music.
 - ⚡ I love art too :smile:
