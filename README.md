@@ -14,7 +14,7 @@
   - __IAC Tools__: Terraform and Packer, Pulumi.
   
 - 👯 I am eagerly open to collaborative opportunities within the sphere of __DevOps__ and __Cloud__ Projects.
-- ⚡ __Fun fact:__ The act of fully engaging with music brings about a profound sense of joy within me; furthermore, I possess a profound admiration for various forms of art. 😄
+- ⚡ __Fun fact:__ music fills me with so much happiness, and I'm also a big fan of different types of art. It just makes me super joyful! 😄
 
   
 
