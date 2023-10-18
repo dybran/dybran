@@ -1,7 +1,7 @@
 ### Welcome !!! 👋
 
 
-- 🔭 My main interest is on improving software development and deployment processes, driven by my unwavering commitment to the DevOps and Cloud engineering space 💻 ☁️. I am fueled by enthusiasm, leading me to engage actively and continuously learn in the ever-evolving and collaborative technological landscape
+- 🔭 My main interest is on improving software development and deployment processes, driven by my unwavering commitment to the DevOps and Cloud engineering space 💻 ☁️. I am fueled by enthusiasm, leading me to engage actively and continuously learn in the ever-evolving and collaborative technological landscape.
 
 - 🌱 I am currently working on  projects that leverage the capabilities of the following DevOps and Cloud Tools: -
   - __OS__: Linux
