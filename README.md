@@ -20,6 +20,10 @@
 <p align="left">
 </p>
 
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
+[![](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium)](https://medium.com/@onwuasoanyasc_22360)
+
 <h3 align="left">Languages and Tools:</h3>
 
  [![](https://img.shields.io/badge/Jenkins-%230077B5.svg?style=for-the-badge&logo=Jenkins)]() [![](https://img.shields.io/badge/Git-%230077B5.svg?style=for-the-badge&logo=Git)]() [![](https://img.shields.io/badge/Ansible-%230077B5.svg?style=for-the-badge&logo=Ansible)]() [![](https://img.shields.io/badge/Terraform-%230077B5.svg?style=for-the-badge&logo=Terraform)]() [![](https://img.shields.io/badge/Kubernetes-%230077B5.svg?style=for-the-badge&logo=Kubernetes)]() [![](https://img.shields.io/badge/Helm-%230077B5.svg?style=for-the-badge&logo=Helm)]() [![](https://img.shields.io/badge/Linux-%230077B5.svg?style=for-the-badge&logo=Linux)]() [![](https://img.shields.io/badge/Gitlab-%230077B5.svg?style=for-the-badge&logo=Gitlab)]() [![](https://img.shields.io/badge/Pulumi-%230077B5.svg?style=for-the-badge&logo=Pulumi)]() [![](https://img.shields.io/badge/Vagrant-%230077B5.svg?style=for-the-badge&logo=Vagrant)]() [![](https://img.shields.io/badge/Nginx-%230077B5.svg?style=for-the-badge&logo=Nginx)]() [![](https://img.shields.io/badge/AWS-%230077B5.svg?style=for-the-badge&logo=AWS)]() [![](https://img.shields.io/badge/Azure-%230077B5.svg?style=for-the-badge&logo=Azure)]()
@@ -35,9 +39,7 @@
 
 ![](https://github.com/dybran/Containerizing-Microservices-Project/blob/main/images/ved.jpg)
 
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
-[![](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium)](https://medium.com/@onwuasoanyasc_22360)
+
 
 
 
