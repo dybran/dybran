@@ -13,17 +13,16 @@
   - __IAC Tools__: Terraform and Packer, Pulumi.
   
 - 👯 I am eagerly open to collaborative opportunities within the sphere of __DevOps__ and __Cloud__ Projects.
-- ⚡ __Fun fact:__ music fills me with so much happiness, and I'm also a big fan of different types of art. It just makes me super joyful! 😄
+- ⚡ __Fun fact:__ Music fills me with so much happiness, and I'm also a big fan of different types of art. It just makes me super joyful! 😄
 
-  
+ [![](https://img.shields.io/badge/Jenkins-%230077B5.svg?style=for-the-badge&logo=Jenkins)]() [![](https://img.shields.io/badge/Git-%230077B5.svg?style=for-the-badge&logo=Git)]() [![](https://img.shields.io/badge/Ansible-%230077B5.svg?style=for-the-badge&logo=Ansible)]() [![](https://img.shields.io/badge/Terraform-%230077B5.svg?style=for-the-badge&logo=Terraform)]() [![](https://img.shields.io/badge/Kubernetes-%230077B5.svg?style=for-the-badge&logo=Kubernetes)]() [![](https://img.shields.io/badge/Helm-%230077B5.svg?style=for-the-badge&logo=Helm)]() [![](https://img.shields.io/badge/Linux-%230077B5.svg?style=for-the-badge&logo=Linux)]() [![](https://img.shields.io/badge/Gitlab-%230077B5.svg?style=for-the-badge&logo=Gitlab)]() [![](https://img.shields.io/badge/Pulumi-%230077B5.svg?style=for-the-badge&logo=Pulumi)]() [![](https://img.shields.io/badge/Vagrant-%230077B5.svg?style=for-the-badge&logo=Vagrant)]() [![](https://img.shields.io/badge/Nginx-%230077B5.svg?style=for-the-badge&logo=Nginx)]() [![](https://img.shields.io/badge/AWS-%230077B5.svg?style=for-the-badge&logo=AWS)]() [![](https://img.shields.io/badge/Azure-%230077B5.svg?style=for-the-badge&logo=Azure)]()
+
+
+![](https://github.com/dybran/Containerizing-Microservices-Project/blob/main/images/ved.jpg)
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/Narbydxelos)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomon-onwuasoanya-55b41180/)
 [![](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium)](https://medium.com/@onwuasoanyasc_22360)
-
-![](https://github.com/dybran/Containerizing-Microservices-Project/blob/main/images/ved.jpg)
-
-
 
 <!--
 **dybran/dybran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
