@@ -3,14 +3,7 @@
 
 - 🔭 My main interest is on improving software development and deployment processes, driven by my unwavering commitment to the DevOps and Cloud engineering space 💻 ☁️. I am fueled by enthusiasm, leading me to engage actively and continuously learn in the ever-evolving and collaborative technological landscape.
 
-- 🌱 I am currently working on  projects that leverage the capabilities of the following DevOps and Cloud Tools: -
-  - __Configuration Management__: Ansible
-  - __Containerization__: Docker
-  - __Container Orchestration__: Kubernetes
-  - __CI/CD__: Jenkins
-  - __Version Control__: Github
-  - __Cloud Platform__: AWS
-  - __IAC Tools__: Terraform and Packer, Pulumi.
+- 🌱 I am currently working on  projects that leverage the capabilities of DevOps and Cloud Tools.
   
 - 👯 I am eagerly open to collaborative opportunities within the sphere of __DevOps__ and __Cloud__ Projects.
 - ⚡ __Fun fact:__ Music fills me with so much happiness, and I'm also a big fan of different types of art. It just makes me super joyful! 😄
