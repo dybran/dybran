@@ -30,8 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dybran&show_icons=true&locale=en" alt="dybran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dybran&" alt="dybran" /></p>
-
 
 ![](https://github.com/dybran/Containerizing-Microservices-Project/blob/main/images/ved.jpg)
 
